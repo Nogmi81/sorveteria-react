@@ -43,6 +43,12 @@
   text-decoration: underline;
 }
 
+@media (min-width: 280px) and (max-width: 550px) {
+  .topo_container {
+    background-color: #DED4A3;
+  }
+}
+
 @media (max-width: 768px){
   .topo_container div{
     flex-direction: column;
