@@ -1,3 +1,11 @@
+Projeto realizado com React.js / Next.js
+
+Link: https://sorveteria-react-three.vercel.app/
+
+
+![image](https://github.com/user-attachments/assets/25543ac0-3999-42c9-82ca-3e56cd6f33bd)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
